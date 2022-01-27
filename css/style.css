@@ -1,0 +1,16 @@
+body{
+    background-color: hotpink;
+    display: flex;
+    flex-direction: column;
+    /* margin-right: 20%;
+    margin-left: 20%; */
+    justify-content: center;
+    text-align: center;
+}
+
+input, button{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 300px;
+    /* padding: 0; */
+}
